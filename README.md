@@ -1,5 +1,10 @@
 # saga-agent
 
+[![PyPI version](https://badge.fury.io/py/saga-agent.svg)](https://pypi.org/project/saga-agent/)
+[![Python](https://img.shields.io/pypi/pyversions/saga-agent)](https://pypi.org/project/saga-agent/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+---
+
 > **Transactional safety layer for AI agent tool execution.**  
 > When an AI agent fails mid-workflow, saga-agent automatically rolls back every completed step — in reverse order.
 
